@@ -2,9 +2,9 @@
 
 > 手把手教你部署 Autoclaw（智谱一键安装版 OpenClaw），从下载安装到飞书机器人接入，全流程图文保姆级教程，小白也能轻松上手！
 >
-> **发布日期**：2026年3月13日 | **平台**：小红书、微信公众号 | **标签**：`AI` `工具` `教程`
+> **发布日期**：2026年3月13日 | **平台**：微信公众号 | **标签**：`AI` `工具` `教程`
 >
-> 🔗 [微信公众号](https://mp.weixin.qq.com/s/zZdIA6cWa02YWTO71a6t2w?scene=1) | [小红书](https://www.xiaohongshu.com/explore/69b3b204000000001b000d6b?xsec_token=YBkmzlOnUOEJKisHzNLPZbGZaFPYMewVJFFqX27ZI3PaE%3D&xsec_source=pc_creatormng)
+> 🔗 [微信公众号](https://mp.weixin.qq.com/s/zZdIA6cWa02YWTO71a6t2w?scene=1) 
 
 龙虾千千万，虾脑最关键！🦞
 
