@@ -1,12 +1,10 @@
 # Autoclaw一键安装小龙虾🦞
 
-公众号链接: https://mp.weixin.qq.com/s/zZdIA6cWa02YWTO71a6t2w?scene=1
-发布日期: 2026年3月13日
-发布状态: 已发布
-小红书链接: https://www.xiaohongshu.com/explore/69b3b204000000001b000d6b?xsec_token=YBkmzlOnUOEJKisHzNLPZbGZaFPYMewVJFFqX27ZI3PaE%3D&xsec_source=pc_creatormng
-平台: 小红书, 微信公众号
-摘要: 手把手教你部署Autoclaw（智谱一键安装版OpenClaw），从下载安装到飞书机器人接入，全流程图文保姆级教程，小白也能轻松上手！
-标签: AI, 工具, 教程
+> 手把手教你部署 Autoclaw（智谱一键安装版 OpenClaw），从下载安装到飞书机器人接入，全流程图文保姆级教程，小白也能轻松上手！
+>
+> **发布日期**：2026年3月13日 | **平台**：小红书、微信公众号 | **标签**：`AI` `工具` `教程`
+>
+> 🔗 [微信公众号](https://mp.weixin.qq.com/s/zZdIA6cWa02YWTO71a6t2w?scene=1) | [小红书](https://www.xiaohongshu.com/explore/69b3b204000000001b000d6b?xsec_token=YBkmzlOnUOEJKisHzNLPZbGZaFPYMewVJFFqX27ZI3PaE%3D&xsec_source=pc_creatormng)
 
 龙虾千千万，虾脑最关键！🦞
 
