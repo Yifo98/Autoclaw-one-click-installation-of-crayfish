@@ -30,12 +30,7 @@
 
 ![image.png](image%201.png)
 
-<aside>
-💡
-
-**Mac 用户安装提示**：如果提示无法打开，需要先允许"任何来源"的应用程序。
-
-</aside>
+> 💡 **Mac 用户安装提示**：如果提示无法打开，需要先允许"任何来源"的应用程序。
 
 **操作步骤：**
 
@@ -63,12 +58,7 @@ sudo spctl --master-disable
 
 ![image.png](image%205.png)
 
-<aside>
-📦
-
-如果之前部署过 OpenClaw，会自动进入迁移流程，数据无缝衔接。
-
-</aside>
+> 📦 如果之前部署过 OpenClaw，会自动进入迁移流程，数据无缝衔接。
 
 ![image.png](image%206.png)
 
@@ -108,12 +98,7 @@ sudo spctl --master-disable
 
 ![image.png](image%2013.png)
 
-<aside>
-📖
-
-想深入了解更多功能？可以参考 OpenClaw 官方文档：[https://docs.openclaw.ai/zh-CN](https://docs.openclaw.ai/zh-CN)
-
-</aside>
+> 📖 想深入了解更多功能？可以参考 OpenClaw 官方文档：[https://docs.openclaw.ai/zh-CN](https://docs.openclaw.ai/zh-CN)
 
 [OpenClaw - OpenClaw](https://docs.openclaw.ai/zh-CN)
 
@@ -149,12 +134,7 @@ sudo spctl --master-disable
 - **App ID**（格式如 `cli_xxx`）
 - **App Secret**
 
-<aside>
-⚠️
-
-**重要**：请妥善保管 App Secret，切勿分享给他人！
-
-</aside>
+> ⚠️ **重要**：请妥善保管 App Secret，切勿分享给他人！
 
 ![image.png](image%2018.png)
 
@@ -267,12 +247,7 @@ sudo spctl --master-disable
 
 ## 五、管理飞书应用
 
-<aside>
-💡
-
-如果在飞书开放平台的「凭证与基础信息」内无法删除应用，可以通过管理后台操作。
-
-</aside>
+> 💡 如果在飞书开放平台的「凭证与基础信息」内无法删除应用，可以通过管理后台操作。
 
 [Feishu Open Platform](https://open.feishu.cn/app/cli_a939cd012d39dcc5/baseinfo)
 
